@@ -1,6 +1,6 @@
-<a href="https://yourwebsite.com" target="_blank">
-  <img src="https://your-image-link.png" alt="Banner" width="1200" />
-</a>
+<p align="centre">
+  <img src="assets/github.png" alt="My Banner" width="1000">
+</p>
 
 
 ## Connect with me
