@@ -1,5 +1,30 @@
 [![Banner](https://your-image-link.png)]
 
+## Connect with me
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gaurika-sethi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sethi_gaurika03/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/pixelsnsyntax" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@pixelsnsyntax" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+
 ### Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -50,9 +75,10 @@
 
 | GitHub Streak | Top Languages |
 |---------------|---------------|
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurika-Sethi&theme=transparent&hide_border=true&stroke=8C5EF2&ring=8C5EF2&fire=8C5EF2&currStreakLabel=8C5EF2&sideNums=8C5EF2&sideLabels=8C5EF2&dates=B8AEE8" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurika-Sethi&layout=compact&theme=transparent&hide_border=true&title_color=8C5EF2&text_color=B8AEE8&icon_color=8C5EF2" height="200"/> |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurika-Sethi&theme=transparent&hide_border=true&stroke=9B5DE5&ring=9B5DE5&fire=9B5DE5&currStreakLabel=9B5DE5&sideNums=9B5DE5&sideLabels=9B5DE5&dates=CBB2F0" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurika-Sethi&layout=compact&theme=transparent&hide_border=true&title_color=9B5DE5&text_color=CBB2F0&icon_color=9B5DE5" height="200"/> |
 
 </div>
+
 
 
 
