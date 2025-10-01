@@ -1,5 +1,7 @@
 [![Banner](https://your-image-link.png)]
 
+[![Gaurika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurika-Sethi)](https://github.com/Gaurika-Sethi/github-readme-stats)
+
 ### Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
