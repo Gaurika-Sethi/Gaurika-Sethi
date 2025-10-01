@@ -46,10 +46,13 @@
 
 ---
 
+<div align="center">
+
 | GitHub Streak | Top Languages |
 |---------------|---------------|
 | <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurika-Sethi&theme=transparent&hide_border=true&stroke=8C5EF2&ring=8C5EF2&fire=8C5EF2&currStreakLabel=8C5EF2&sideNums=8C5EF2&sideLabels=8C5EF2&dates=B8AEE8" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurika-Sethi&layout=compact&theme=transparent&hide_border=true&title_color=8C5EF2&text_color=B8AEE8&icon_color=8C5EF2" height="200"/> |
 
+</div>
 
 
 
