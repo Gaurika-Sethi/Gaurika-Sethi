@@ -2,7 +2,7 @@
   <img src="assets/github.png" alt="My Banner" width="100%" />
 </p>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Gaurika-Sethi&color=blue)
 
 ## Connect with me
 
