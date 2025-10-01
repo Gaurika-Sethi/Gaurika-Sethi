@@ -1,4 +1,7 @@
-[![Banner](https://your-image-link.png)]
+<p align="center">
+  <img src="assets/banner.png" alt="My Banner" width="100%" />
+</p>
+
 
 ## Connect with me
 
