@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="assets/github.png" alt="My Banner" width="100%" />
+<p align="centre">
+  <img src="assets/github.png" alt="My Banner" width="1000">
 </p>
-
 
 
 ## Connect with me
