@@ -1,4 +1,4 @@
-<p align="centre">
+<p align="centre"> 
   <img src="assets/banner.svg" alt="My Banner" width="100%">
 </p>
 
