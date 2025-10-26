@@ -4,7 +4,7 @@
 
 
 ## Connect with me
-
+ 
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gaurika-sethi/" target="_blank">
