@@ -94,6 +94,6 @@
 
 | GitHub Streak | Top Languages |
 |---------------|---------------|
-| <img src="https://github-readme-streak-stats-eight.vercel.app?user=gaurika-sethi&theme=transparent&hide_border=true&stroke=9B5DE5&ring=9B5DE5&fire=9B5DE5&currStreakLabel=9B5DE5&sideNums=9B5DE5&sideLabels=9B5DE5&dates=CBB2F0" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurika-sethi&layout=compact&theme=transparent&hide_border=true&title_color=9B5DE5&text_color=CBB2F0&icon_color=9B5DE5&bg_color=00000000" height="200"/> |
+| <img src="https://github-readme-streak-stats-eight.vercel.app?user=gaurika-sethi&theme=transparent&hide_border=true&stroke=9B5DE5&ring=9B5DE5&fire=9B5DE5&currStreakLabel=9B5DE5&sideNums=9B5DE5&sideLabels=9B5DE5&dates=CBB2F0" height="200"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurika-sethi&theme=github_dark" height="200"/> |
 
 </div>
