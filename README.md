@@ -2,7 +2,7 @@
   <a href="https://gaurikasethi.vercel.app/" target="_blank"> 
   <img src="assets/banner.svg" alt="My Banner" width="100%">
 </p>  
- 
+  
 
 ## Connect with me 
  
