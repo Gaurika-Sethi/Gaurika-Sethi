@@ -2,49 +2,68 @@
   <a href="https://gaurikasethi.vercel.app/" target="_blank"> 
   <img src="assets/banner.svg" alt="My Banner" width="100%"> 
 </p> 
-  
 
 ## Connect with me  
  
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gaurika-sethi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/sethi_gaurika03/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- Twitter -->
   <a href="https://twitter.com/pixelsnsyntax" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
-  <!-- Medium -->
   <a href="https://medium.com/@pixelsnsyntax" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
+---
 
-### Languages:
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## 🧠 Research & Core Domains
+- State Estimation & Filtering (Kalman, Adaptive Methods)  
+- Probabilistic Robotics & Motion Modeling  
+- Computer Vision for Tracking (Monocular Systems)  
+- Signal Processing & Time-Series Analysis  
+- Uncertainty Modeling & Covariance Analysis  
 
 ---
 
-### Frameworks, Platforms, and Libraries:
+## 🤖 Robotics & Simulation
+- Multibody Dynamics & Mechanism Simulation  
+- :contentReference[oaicite:1]{index=1}  
+- :contentReference[oaicite:2]{index=2} & :contentReference[oaicite:3]{index=3}  
+- Control Systems & State-Space Modeling  
+- Sensor Fusion & Trajectory Prediction  
 
+---
+
+## 💻 Programming & Libraries
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+---
+
+## 🛠 Engineering & Design Tools
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
+---
+
+## 🌐 Development (Secondary Stack)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -57,33 +76,9 @@
 
 ---
 
-### IDE:
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### Design:
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### Version Control:
+## ⚙️ Tools & Systems
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
