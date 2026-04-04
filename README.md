@@ -35,9 +35,10 @@
 ---
 
 ## 🤖 Robotics & Simulation
+
 - Multibody Dynamics & Mechanism Simulation  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2} & :contentReference[oaicite:3]{index=3}  
+- MSC Adams  
+- MATLAB & Simulink  
 - Control Systems & State-Space Modeling  
 - Sensor Fusion & Trajectory Prediction  
 
