@@ -26,9 +26,9 @@
 ---
 
 ## 🧠 Research & Core Domains
-- State Estimation & Filtering (Kalman, Adaptive Methods)  
+- State Estimation & Filtering 
 - Probabilistic Robotics & Motion Modeling  
-- Computer Vision for Tracking (Monocular Systems)  
+- Computer Vision for Tracking
 - Signal Processing & Time-Series Analysis  
 - Uncertainty Modeling & Covariance Analysis  
 
